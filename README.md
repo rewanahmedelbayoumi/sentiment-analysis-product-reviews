@@ -243,6 +243,3 @@ This project demonstrates practical experience with:
 * Confusion matrix analysis
 * Git and GitHub workflow
 * Reproducible machine learning project structure
-
-```
-```
