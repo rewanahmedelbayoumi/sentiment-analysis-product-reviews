@@ -1,4 +1,3 @@
-````md
 # Sentiment Analysis on IMDb Reviews
 
 An end-to-end Natural Language Processing project for classifying movie reviews as **positive** or **negative** using classical machine learning techniques.
@@ -44,7 +43,6 @@ https://ai.stanford.edu/~amaas/data/sentiment/
 
 ## NLP Pipeline
 
-```text
 Raw IMDb Reviews
         ↓
 Text Cleaning
@@ -62,7 +60,7 @@ Logistic Regression
 Sentiment Prediction
         ↓
 Model Evaluation
-````
+
 
 ## Text Preprocessing
 
